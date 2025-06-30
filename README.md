@@ -38,7 +38,7 @@ DDoS tool supporting Layer 1-7 attacks with WAF bypass capabilities.
 
 ```bash
 # Clone the repository
-git clone https://github.com/sazumivicky/ddos-striker.git
+git clone https://github.com/sazumivicky/ddos_striker.git
 cd ddos-striker
 
 # Install dependencies
